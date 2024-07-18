@@ -1,5 +1,5 @@
 
-# Invidiouser 🔥
+# Invidiouser
 
 ### A simple Chrome Extension to replace all YouTube URLs with Invidious
 
@@ -24,7 +24,3 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 ## License
 Distributed under the MIT License. See [MIT License](https://opensource.org/licenses/MIT) for more information.
-
-## Contact
-- Telegram : [@idkvarg](https://t.me/idkvarg)
-- Bale : [@idkvarg](https://web.bale.ai)
