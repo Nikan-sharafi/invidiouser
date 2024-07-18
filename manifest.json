@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Invidious",
+  "description": "Replace YouTube With Invidious",
+  "author": "Hamidreza Ahmadi",
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "version": "0.1",
+  "content_scripts": [{
+    "js": ["background.js"],
+    "matches": ["<all_urls>"],
+    "run_at":    "document_start",
+    "exclude_matches": [
+      "https://*.youtube.com/*"
+    ]
+  }],
+  "permissions": [
+    "tabs",
+    "activeTab",
+    "storage"
+  ]
+}
