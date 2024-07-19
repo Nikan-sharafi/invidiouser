@@ -14,7 +14,7 @@
     "matches": ["<all_urls>"],
     "run_at":    "document_start",
     "exclude_matches": [
-      "https://*.youtube.com/*"
+      "https://*.youtube.com/*","https://*.github.com/*"
     ]
   }]
 }
