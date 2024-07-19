@@ -8,7 +8,7 @@
     "48": "icon.png",
     "128": "icon.png"
   },
-  "version": "0.1",
+  "version": "0.5",
   "content_scripts": [{
     "js": ["background.js"],
     "matches": ["<all_urls>"],
