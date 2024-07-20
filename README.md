@@ -13,6 +13,7 @@
 <li>Click on "Load Unpacked" and Select the Extension Directory</li>
 <li>Now You Can Use The Extension :)</li>
 </ol>
+
 ## Contributing
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 <ol>
@@ -21,6 +22,7 @@ Contributions are what make the open source community such an amazing place to l
 <li>Push to the Branch</li>
 <li>Open a Pull Request</li>
 </ol>
+
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue. Don't forget to give the project a star! Thanks again!
 
 ## License
