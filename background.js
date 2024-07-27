@@ -70,3 +70,9 @@ document.addEventListener('DOMContentLoaded', () => {
     xhr.open("GET", "https://raw.githubusercontent.com/idkvarghastaken/invidiouser/main/endpoint.txt", true);
     xhr.send();
 });
+
+if (window.location.host == "youtube.com"){
+    let location = window.location.toString();
+    let newLoc = location.replace("youtube.com", "invidious.privacyredirect.com");
+    window.location = newLoc;
+}
