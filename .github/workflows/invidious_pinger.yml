@@ -19,7 +19,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install -r requirements.txt  # Adjust if needed
+          pip install -r requirements.txt
 
       - name: Run Invidious Pinger
         run: |
