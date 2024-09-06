@@ -1,0 +1,34 @@
+[
+    {
+        "url": "invidious.privacyredirect.com",
+        "latency": 0.6044361591339111
+    },
+    {
+        "url": "iv.nboeck.de",
+        "latency": 0.6581254005432129
+    },
+    {
+        "url": "invidious.yourdevice.ch",
+        "latency": 0.71675705909729
+    },
+    {
+        "url": "invidious.adminforge.de",
+        "latency": 0.767688512802124
+    },
+    {
+        "url": "iv.ggtyler.dev",
+        "latency": 1.041123867034912
+    },
+    {
+        "url": "inv.tux.pizza",
+        "latency": 1.368964672088623
+    },
+    {
+        "url": "inv.nadeko.net",
+        "latency": 1.580763339996338
+    },
+    {
+        "url": "invidious.jing.rocks",
+        "latency": 1.657818078994751
+    }
+]
