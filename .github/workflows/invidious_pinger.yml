@@ -2,7 +2,7 @@ name: Invidious Pinger
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/5 * * * *'  # Runs every 5 minutes
 
 jobs:
   run_pinger:
@@ -24,3 +24,13 @@ jobs:
       - name: Run Invidious Pinger
         run: |
           python invidious_pinger.py
+
+      - name: Commit instances.json file
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add instances.json
+          git commit -m "Update instances.json"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
