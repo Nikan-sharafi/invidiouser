@@ -1,50 +1,50 @@
 [
     {
-        "url": "invidious.privacyredirect.com",
-        "latency": 0.4508097171783447
-    },
-    {
-        "url": "inv.tux.pizza",
-        "latency": 0.4798853397369385
-    },
-    {
-        "url": "yewtu.be",
-        "latency": 0.4993734359741211
-    },
-    {
-        "url": "invidious.yourdevice.ch",
-        "latency": 0.5850796699523926
-    },
-    {
-        "url": "inv.nadeko.net",
-        "latency": 0.6436038017272949
-    },
-    {
-        "url": "invidious.reallyaweso.me",
-        "latency": 0.6630196571350098
-    },
-    {
-        "url": "iv.nowhere.moe",
-        "latency": 0.8120579719543457
-    },
-    {
-        "url": "iv.nboeck.de",
-        "latency": 0.8220949172973633
+        "url": "iv.ggtyler.dev",
+        "latency": 0.44939398765563965
     },
     {
         "url": "invidious.jing.rocks",
-        "latency": 0.896723747253418
+        "latency": 0.5157356262207031
     },
     {
-        "url": "iv.ggtyler.dev",
-        "latency": 0.9972281455993652
+        "url": "yewtu.be",
+        "latency": 0.522637128829956
     },
     {
-        "url": "invidious.adminforge.de",
-        "latency": 1.2352399826049805
+        "url": "invidious.privacyredirect.com",
+        "latency": 0.5642611980438232
+    },
+    {
+        "url": "invidious.reallyaweso.me",
+        "latency": 0.7095627784729004
+    },
+    {
+        "url": "inv.tux.pizza",
+        "latency": 0.8656537532806396
+    },
+    {
+        "url": "invidious.yourdevice.ch",
+        "latency": 0.8746228218078613
+    },
+    {
+        "url": "iv.nboeck.de",
+        "latency": 0.9662365913391113
     },
     {
         "url": "invidious.privacydev.net",
-        "latency": 1.5451395511627197
+        "latency": 1.1293535232543945
+    },
+    {
+        "url": "iv.nowhere.moe",
+        "latency": 1.176131248474121
+    },
+    {
+        "url": "inv.nadeko.net",
+        "latency": 1.2330191135406494
+    },
+    {
+        "url": "invidious.adminforge.de",
+        "latency": 1.7249555587768555
     }
 ]
