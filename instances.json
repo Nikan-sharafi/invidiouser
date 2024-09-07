@@ -1,50 +1,50 @@
 [
     {
         "url": "invidious.privacyredirect.com",
-        "latency": 0.401928186416626
-    },
-    {
-        "url": "invidious.reallyaweso.me",
-        "latency": 0.4736919403076172
-    },
-    {
-        "url": "invidious.yourdevice.ch",
-        "latency": 0.5008399486541748
-    },
-    {
-        "url": "yewtu.be",
-        "latency": 0.5018329620361328
-    },
-    {
-        "url": "inv.nadeko.net",
-        "latency": 0.5711691379547119
-    },
-    {
-        "url": "iv.nboeck.de",
-        "latency": 0.5720376968383789
-    },
-    {
-        "url": "iv.nowhere.moe",
-        "latency": 0.6021900177001953
-    },
-    {
-        "url": "iv.ggtyler.dev",
-        "latency": 0.6433327198028564
-    },
-    {
-        "url": "invidious.adminforge.de",
-        "latency": 0.680833101272583
-    },
-    {
-        "url": "invidious.jing.rocks",
-        "latency": 0.8931336402893066
+        "latency": 0.4508097171783447
     },
     {
         "url": "inv.tux.pizza",
-        "latency": 1.1303236484527588
+        "latency": 0.4798853397369385
+    },
+    {
+        "url": "yewtu.be",
+        "latency": 0.4993734359741211
+    },
+    {
+        "url": "invidious.yourdevice.ch",
+        "latency": 0.5850796699523926
+    },
+    {
+        "url": "inv.nadeko.net",
+        "latency": 0.6436038017272949
+    },
+    {
+        "url": "invidious.reallyaweso.me",
+        "latency": 0.6630196571350098
+    },
+    {
+        "url": "iv.nowhere.moe",
+        "latency": 0.8120579719543457
+    },
+    {
+        "url": "iv.nboeck.de",
+        "latency": 0.8220949172973633
+    },
+    {
+        "url": "invidious.jing.rocks",
+        "latency": 0.896723747253418
+    },
+    {
+        "url": "iv.ggtyler.dev",
+        "latency": 0.9972281455993652
+    },
+    {
+        "url": "invidious.adminforge.de",
+        "latency": 1.2352399826049805
     },
     {
         "url": "invidious.privacydev.net",
-        "latency": 1.363908052444458
+        "latency": 1.5451395511627197
     }
 ]
