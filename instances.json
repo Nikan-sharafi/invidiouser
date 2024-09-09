@@ -1,50 +1,50 @@
 [
     {
         "url": "inv.tux.pizza",
-        "latency": 0.355623722076416
+        "latency": 0.2358381748199463
     },
     {
         "url": "invidious.privacyredirect.com",
-        "latency": 0.4293484687805176
-    },
-    {
-        "url": "yewtu.be",
-        "latency": 0.5433228015899658
-    },
-    {
-        "url": "invidious.reallyaweso.me",
-        "latency": 0.5453364849090576
-    },
-    {
-        "url": "iv.nboeck.de",
-        "latency": 0.6146087646484375
-    },
-    {
-        "url": "invidious.privacydev.net",
-        "latency": 0.6989150047302246
-    },
-    {
-        "url": "iv.nowhere.moe",
-        "latency": 0.8788630962371826
-    },
-    {
-        "url": "invidious.yourdevice.ch",
-        "latency": 0.9511454105377197
-    },
-    {
-        "url": "iv.ggtyler.dev",
-        "latency": 1.0193116664886475
-    },
-    {
-        "url": "invidious.jing.rocks",
-        "latency": 1.0593225955963135
-    },
-    {
-        "url": "invidious.adminforge.de",
-        "latency": 1.1757760047912598
+        "latency": 0.3801548480987549
     },
     {
         "url": "inv.nadeko.net",
-        "latency": 6.712295770645142
+        "latency": 0.5291383266448975
+    },
+    {
+        "url": "iv.nboeck.de",
+        "latency": 0.570399284362793
+    },
+    {
+        "url": "yewtu.be",
+        "latency": 0.5769548416137695
+    },
+    {
+        "url": "invidious.yourdevice.ch",
+        "latency": 0.5825891494750977
+    },
+    {
+        "url": "invidious.reallyaweso.me",
+        "latency": 0.5941612720489502
+    },
+    {
+        "url": "iv.ggtyler.dev",
+        "latency": 0.6028821468353271
+    },
+    {
+        "url": "iv.nowhere.moe",
+        "latency": 0.6600351333618164
+    },
+    {
+        "url": "invidious.jing.rocks",
+        "latency": 0.8013310432434082
+    },
+    {
+        "url": "invidious.adminforge.de",
+        "latency": 1.0604867935180664
+    },
+    {
+        "url": "invidious.privacydev.net",
+        "latency": 1.2658238410949707
     }
 ]
