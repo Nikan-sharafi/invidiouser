@@ -1,50 +1,50 @@
 [
     {
-        "url": "invidious.privacyredirect.com",
-        "latency": 0.4264202117919922
-    },
-    {
-        "url": "yewtu.be",
-        "latency": 0.4350597858428955
-    },
-    {
-        "url": "invidious.reallyaweso.me",
-        "latency": 0.4588661193847656
+        "url": "iv.ggtyler.dev",
+        "latency": 0.22856402397155762
     },
     {
         "url": "inv.tux.pizza",
-        "latency": 0.4635148048400879
+        "latency": 0.4109804630279541
     },
     {
-        "url": "iv.nboeck.de",
-        "latency": 0.574429988861084
+        "url": "invidious.privacyredirect.com",
+        "latency": 0.42602014541625977
     },
     {
-        "url": "inv.nadeko.net",
-        "latency": 0.6096115112304688
-    },
-    {
-        "url": "invidious.yourdevice.ch",
-        "latency": 0.6714231967926025
-    },
-    {
-        "url": "iv.ggtyler.dev",
-        "latency": 0.742011547088623
-    },
-    {
-        "url": "iv.nowhere.moe",
-        "latency": 0.7668924331665039
-    },
-    {
-        "url": "invidious.jing.rocks",
-        "latency": 1.0551319122314453
-    },
-    {
-        "url": "invidious.adminforge.de",
-        "latency": 1.276953935623169
+        "url": "yewtu.be",
+        "latency": 0.4931166172027588
     },
     {
         "url": "invidious.privacydev.net",
-        "latency": 6.110134840011597
+        "latency": 0.5233349800109863
+    },
+    {
+        "url": "invidious.reallyaweso.me",
+        "latency": 0.6310203075408936
+    },
+    {
+        "url": "iv.nboeck.de",
+        "latency": 0.6813232898712158
+    },
+    {
+        "url": "iv.nowhere.moe",
+        "latency": 0.6941244602203369
+    },
+    {
+        "url": "inv.nadeko.net",
+        "latency": 0.7389764785766602
+    },
+    {
+        "url": "invidious.yourdevice.ch",
+        "latency": 0.79079270362854
+    },
+    {
+        "url": "invidious.jing.rocks",
+        "latency": 0.8286840915679932
+    },
+    {
+        "url": "invidious.adminforge.de",
+        "latency": 1.286581039428711
     }
 ]
