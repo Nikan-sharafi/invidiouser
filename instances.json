@@ -1,50 +1,50 @@
 [
     {
-        "url": "invidious.jing.rocks",
-        "latency": 0.5122830867767334
-    },
-    {
         "url": "iv.ggtyler.dev",
-        "latency": 0.6097357273101807
-    },
-    {
-        "url": "yewtu.be",
-        "latency": 0.6844046115875244
-    },
-    {
-        "url": "inv.nadeko.net",
-        "latency": 0.7232546806335449
-    },
-    {
-        "url": "invidious.reallyaweso.me",
-        "latency": 0.8407371044158936
-    },
-    {
-        "url": "invidious.yourdevice.ch",
-        "latency": 0.8718416690826416
-    },
-    {
-        "url": "iv.nboeck.de",
-        "latency": 0.974639892578125
-    },
-    {
-        "url": "iv.nowhere.moe",
-        "latency": 1.1462788581848145
-    },
-    {
-        "url": "invidious.adminforge.de",
-        "latency": 1.6168105602264404
-    },
-    {
-        "url": "invidious.privacyredirect.com",
-        "latency": 3.5333056449890137
+        "latency": 0.16260743141174316
     },
     {
         "url": "inv.tux.pizza",
-        "latency": 3.5393526554107666
+        "latency": 0.5229506492614746
+    },
+    {
+        "url": "invidious.yourdevice.ch",
+        "latency": 0.5824062824249268
+    },
+    {
+        "url": "yewtu.be",
+        "latency": 0.5842545032501221
+    },
+    {
+        "url": "inv.nadeko.net",
+        "latency": 0.6134369373321533
+    },
+    {
+        "url": "iv.nowhere.moe",
+        "latency": 0.6495201587677002
+    },
+    {
+        "url": "iv.nboeck.de",
+        "latency": 0.698340892791748
+    },
+    {
+        "url": "invidious.reallyaweso.me",
+        "latency": 0.7479691505432129
+    },
+    {
+        "url": "invidious.jing.rocks",
+        "latency": 0.9087467193603516
+    },
+    {
+        "url": "invidious.adminforge.de",
+        "latency": 1.2808220386505127
+    },
+    {
+        "url": "invidious.privacyredirect.com",
+        "latency": 1.2997040748596191
     },
     {
         "url": "invidious.privacydev.net",
-        "latency": 5.372149705886841
+        "latency": 4.192070484161377
     }
 ]
