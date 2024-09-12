@@ -1,50 +1,50 @@
 [
     {
-        "url": "iv.ggtyler.dev",
-        "latency": 0.16502118110656738
+        "url": "inv.tux.pizza",
+        "latency": 0.42772531509399414
     },
     {
         "url": "invidious.privacyredirect.com",
-        "latency": 0.3641328811645508
-    },
-    {
-        "url": "inv.tux.pizza",
-        "latency": 0.40033435821533203
+        "latency": 0.4508697986602783
     },
     {
         "url": "yewtu.be",
-        "latency": 0.44506096839904785
-    },
-    {
-        "url": "iv.nowhere.moe",
-        "latency": 0.5630671977996826
-    },
-    {
-        "url": "inv.nadeko.net",
-        "latency": 0.5785112380981445
-    },
-    {
-        "url": "invidious.reallyaweso.me",
-        "latency": 0.5978825092315674
-    },
-    {
-        "url": "invidious.yourdevice.ch",
-        "latency": 0.6051063537597656
-    },
-    {
-        "url": "iv.nboeck.de",
-        "latency": 0.6335227489471436
-    },
-    {
-        "url": "invidious.jing.rocks",
-        "latency": 0.9019806385040283
-    },
-    {
-        "url": "invidious.adminforge.de",
-        "latency": 0.9899642467498779
+        "latency": 0.5878674983978271
     },
     {
         "url": "invidious.privacydev.net",
-        "latency": 1.570521354675293
+        "latency": 0.5906026363372803
+    },
+    {
+        "url": "inv.nadeko.net",
+        "latency": 0.604301929473877
+    },
+    {
+        "url": "invidious.reallyaweso.me",
+        "latency": 0.6189424991607666
+    },
+    {
+        "url": "iv.nowhere.moe",
+        "latency": 0.6392583847045898
+    },
+    {
+        "url": "invidious.yourdevice.ch",
+        "latency": 0.6620302200317383
+    },
+    {
+        "url": "iv.nboeck.de",
+        "latency": 0.7118937969207764
+    },
+    {
+        "url": "iv.ggtyler.dev",
+        "latency": 0.75229811668396
+    },
+    {
+        "url": "invidious.jing.rocks",
+        "latency": 0.8719968795776367
+    },
+    {
+        "url": "invidious.adminforge.de",
+        "latency": 0.9264469146728516
     }
 ]
