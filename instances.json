@@ -1,50 +1,50 @@
 [
     {
         "url": "iv.ggtyler.dev",
-        "latency": 0.2689399719238281
-    },
-    {
-        "url": "yewtu.be",
-        "latency": 0.5023849010467529
-    },
-    {
-        "url": "invidious.reallyaweso.me",
-        "latency": 0.5375931262969971
-    },
-    {
-        "url": "invidious.privacydev.net",
-        "latency": 0.5772621631622314
-    },
-    {
-        "url": "invidious.yourdevice.ch",
-        "latency": 0.6794867515563965
-    },
-    {
-        "url": "iv.nboeck.de",
-        "latency": 0.6881365776062012
-    },
-    {
-        "url": "iv.nowhere.moe",
-        "latency": 0.909092903137207
-    },
-    {
-        "url": "inv.nadeko.net",
-        "latency": 0.9344425201416016
+        "latency": 0.4331326484680176
     },
     {
         "url": "invidious.jing.rocks",
-        "latency": 1.1735508441925049
+        "latency": 0.5709192752838135
     },
     {
-        "url": "invidious.adminforge.de",
-        "latency": 1.1823782920837402
+        "url": "yewtu.be",
+        "latency": 0.6790726184844971
     },
     {
-        "url": "invidious.privacyredirect.com",
-        "latency": 1.2650370597839355
+        "url": "inv.nadeko.net",
+        "latency": 0.7248735427856445
+    },
+    {
+        "url": "invidious.reallyaweso.me",
+        "latency": 0.7957313060760498
     },
     {
         "url": "inv.tux.pizza",
-        "latency": 4.261049747467041
+        "latency": 0.8623912334442139
+    },
+    {
+        "url": "invidious.yourdevice.ch",
+        "latency": 0.8730700016021729
+    },
+    {
+        "url": "iv.nowhere.moe",
+        "latency": 0.876537561416626
+    },
+    {
+        "url": "invidious.privacydev.net",
+        "latency": 1.029130220413208
+    },
+    {
+        "url": "iv.nboeck.de",
+        "latency": 1.0791809558868408
+    },
+    {
+        "url": "invidious.privacyredirect.com",
+        "latency": 1.2715182304382324
+    },
+    {
+        "url": "invidious.adminforge.de",
+        "latency": 1.5651702880859375
     }
 ]
