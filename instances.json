@@ -1,50 +1,50 @@
 [
     {
-        "url": "invidious.privacyredirect.com",
-        "latency": 0.5626258850097656
-    },
-    {
         "url": "iv.ggtyler.dev",
-        "latency": 0.6002829074859619
-    },
-    {
-        "url": "inv.tux.pizza",
-        "latency": 0.745079517364502
-    },
-    {
-        "url": "invidious.reallyaweso.me",
-        "latency": 0.774726152420044
-    },
-    {
-        "url": "iv.nowhere.moe",
-        "latency": 0.854682445526123
-    },
-    {
-        "url": "iv.nboeck.de",
-        "latency": 0.8865621089935303
-    },
-    {
-        "url": "invidious.yourdevice.ch",
-        "latency": 0.8956911563873291
-    },
-    {
-        "url": "invidious.jing.rocks",
-        "latency": 1.0039441585540771
-    },
-    {
-        "url": "invidious.adminforge.de",
-        "latency": 1.7224698066711426
-    },
-    {
-        "url": "inv.nadeko.net",
-        "latency": 2.998157024383545
-    },
-    {
-        "url": "invidious.privacydev.net",
-        "latency": 4.278082847595215
+        "latency": 0.10312342643737793
     },
     {
         "url": "yewtu.be",
-        "latency": 4.821874141693115
+        "latency": 0.49970579147338867
+    },
+    {
+        "url": "invidious.privacydev.net",
+        "latency": 0.5056414604187012
+    },
+    {
+        "url": "invidious.reallyaweso.me",
+        "latency": 0.5269184112548828
+    },
+    {
+        "url": "invidious.yourdevice.ch",
+        "latency": 0.5550227165222168
+    },
+    {
+        "url": "inv.tux.pizza",
+        "latency": 0.6038243770599365
+    },
+    {
+        "url": "iv.nboeck.de",
+        "latency": 0.6326596736907959
+    },
+    {
+        "url": "invidious.jing.rocks",
+        "latency": 0.7974708080291748
+    },
+    {
+        "url": "iv.nowhere.moe",
+        "latency": 0.8461194038391113
+    },
+    {
+        "url": "invidious.privacyredirect.com",
+        "latency": 0.9256284236907959
+    },
+    {
+        "url": "invidious.adminforge.de",
+        "latency": 0.989995002746582
+    },
+    {
+        "url": "inv.nadeko.net",
+        "latency": 2.4315056800842285
     }
 ]
