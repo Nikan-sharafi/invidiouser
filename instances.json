@@ -1,50 +1,50 @@
 [
     {
-        "url": "iv.ggtyler.dev",
-        "latency": 0.3233180046081543
-    },
-    {
-        "url": "inv.tux.pizza",
-        "latency": 0.39280056953430176
-    },
-    {
-        "url": "invidious.reallyaweso.me",
-        "latency": 0.46088743209838867
-    },
-    {
-        "url": "invidious.privacydev.net",
-        "latency": 0.5097458362579346
-    },
-    {
         "url": "yewtu.be",
-        "latency": 0.5239830017089844
+        "latency": 0.5280015468597412
     },
     {
-        "url": "iv.nowhere.moe",
-        "latency": 0.5650365352630615
-    },
-    {
-        "url": "iv.nboeck.de",
-        "latency": 0.5743536949157715
-    },
-    {
-        "url": "invidious.yourdevice.ch",
-        "latency": 0.5845627784729004
-    },
-    {
-        "url": "inv.nadeko.net",
-        "latency": 0.6643972396850586
-    },
-    {
-        "url": "invidious.privacyredirect.com",
-        "latency": 0.8857691287994385
-    },
-    {
-        "url": "invidious.adminforge.de",
-        "latency": 0.9769361019134521
+        "url": "iv.ggtyler.dev",
+        "latency": 0.5543863773345947
     },
     {
         "url": "invidious.jing.rocks",
-        "latency": 1.0246644020080566
+        "latency": 0.5709600448608398
+    },
+    {
+        "url": "invidious.privacyredirect.com",
+        "latency": 0.5912938117980957
+    },
+    {
+        "url": "inv.nadeko.net",
+        "latency": 0.7669820785522461
+    },
+    {
+        "url": "invidious.reallyaweso.me",
+        "latency": 0.8067054748535156
+    },
+    {
+        "url": "invidious.yourdevice.ch",
+        "latency": 0.8689157962799072
+    },
+    {
+        "url": "iv.nowhere.moe",
+        "latency": 0.8766920566558838
+    },
+    {
+        "url": "invidious.privacydev.net",
+        "latency": 0.876884937286377
+    },
+    {
+        "url": "iv.nboeck.de",
+        "latency": 0.9720275402069092
+    },
+    {
+        "url": "inv.tux.pizza",
+        "latency": 1.398592233657837
+    },
+    {
+        "url": "invidious.adminforge.de",
+        "latency": 1.8109214305877686
     }
 ]
