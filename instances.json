@@ -1,50 +1,50 @@
 [
     {
-        "url": "yewtu.be",
-        "latency": 0.5347194671630859
+        "url": "iv.ggtyler.dev",
+        "latency": 0.4461405277252197
     },
     {
         "url": "invidious.jing.rocks",
-        "latency": 0.5618584156036377
+        "latency": 0.5211963653564453
     },
     {
-        "url": "invidious.reallyaweso.me",
-        "latency": 0.7427971363067627
-    },
-    {
-        "url": "iv.nowhere.moe",
-        "latency": 0.8730578422546387
-    },
-    {
-        "url": "invidious.yourdevice.ch",
-        "latency": 0.8732893466949463
-    },
-    {
-        "url": "iv.nboeck.de",
-        "latency": 0.9666562080383301
-    },
-    {
-        "url": "iv.ggtyler.dev",
-        "latency": 0.9740376472473145
-    },
-    {
-        "url": "inv.tux.pizza",
-        "latency": 0.9869840145111084
-    },
-    {
-        "url": "inv.nadeko.net",
-        "latency": 1.3085427284240723
-    },
-    {
-        "url": "invidious.privacydev.net",
-        "latency": 1.5335631370544434
-    },
-    {
-        "url": "invidious.adminforge.de",
-        "latency": 1.706472635269165
+        "url": "yewtu.be",
+        "latency": 0.5253679752349854
     },
     {
         "url": "invidious.privacyredirect.com",
-        "latency": 1.7160725593566895
+        "latency": 0.5951766967773438
+    },
+    {
+        "url": "invidious.reallyaweso.me",
+        "latency": 0.7266929149627686
+    },
+    {
+        "url": "inv.nadeko.net",
+        "latency": 0.7872529029846191
+    },
+    {
+        "url": "iv.nowhere.moe",
+        "latency": 0.862123966217041
+    },
+    {
+        "url": "invidious.yourdevice.ch",
+        "latency": 0.8726973533630371
+    },
+    {
+        "url": "invidious.privacydev.net",
+        "latency": 0.9193143844604492
+    },
+    {
+        "url": "iv.nboeck.de",
+        "latency": 0.9453661441802979
+    },
+    {
+        "url": "inv.tux.pizza",
+        "latency": 1.0703179836273193
+    },
+    {
+        "url": "invidious.adminforge.de",
+        "latency": 1.760861873626709
     }
 ]
