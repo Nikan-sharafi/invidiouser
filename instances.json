@@ -1,50 +1,50 @@
 [
     {
-        "url": "iv.ggtyler.dev",
-        "latency": 0.4331326484680176
-    },
-    {
-        "url": "invidious.jing.rocks",
-        "latency": 0.5709192752838135
-    },
-    {
         "url": "yewtu.be",
-        "latency": 0.6790726184844971
-    },
-    {
-        "url": "inv.nadeko.net",
-        "latency": 0.7248735427856445
-    },
-    {
-        "url": "invidious.reallyaweso.me",
-        "latency": 0.7957313060760498
-    },
-    {
-        "url": "inv.tux.pizza",
-        "latency": 0.8623912334442139
-    },
-    {
-        "url": "invidious.yourdevice.ch",
-        "latency": 0.8730700016021729
-    },
-    {
-        "url": "iv.nowhere.moe",
-        "latency": 0.876537561416626
-    },
-    {
-        "url": "invidious.privacydev.net",
-        "latency": 1.029130220413208
-    },
-    {
-        "url": "iv.nboeck.de",
-        "latency": 1.0791809558868408
+        "latency": 0.5214023590087891
     },
     {
         "url": "invidious.privacyredirect.com",
-        "latency": 1.2715182304382324
+        "latency": 0.5630736351013184
+    },
+    {
+        "url": "inv.tux.pizza",
+        "latency": 0.605067253112793
+    },
+    {
+        "url": "invidious.jing.rocks",
+        "latency": 0.6741902828216553
+    },
+    {
+        "url": "invidious.reallyaweso.me",
+        "latency": 0.702812910079956
+    },
+    {
+        "url": "inv.nadeko.net",
+        "latency": 0.7552378177642822
+    },
+    {
+        "url": "invidious.yourdevice.ch",
+        "latency": 0.8709237575531006
+    },
+    {
+        "url": "iv.nboeck.de",
+        "latency": 0.9677278995513916
+    },
+    {
+        "url": "invidious.privacydev.net",
+        "latency": 1.0582199096679688
+    },
+    {
+        "url": "iv.nowhere.moe",
+        "latency": 1.1501550674438477
     },
     {
         "url": "invidious.adminforge.de",
-        "latency": 1.5651702880859375
+        "latency": 1.1992542743682861
+    },
+    {
+        "url": "iv.ggtyler.dev",
+        "latency": 1.6149978637695312
     }
 ]
