@@ -1,50 +1,50 @@
 [
     {
         "url": "iv.ggtyler.dev",
-        "latency": 0.23788690567016602
-    },
-    {
-        "url": "invidious.privacyredirect.com",
-        "latency": 0.45080041885375977
-    },
-    {
-        "url": "invidious.yourdevice.ch",
-        "latency": 0.5046818256378174
-    },
-    {
-        "url": "yewtu.be",
-        "latency": 0.5654134750366211
-    },
-    {
-        "url": "iv.nboeck.de",
-        "latency": 0.5657334327697754
-    },
-    {
-        "url": "inv.tux.pizza",
-        "latency": 0.570335865020752
-    },
-    {
-        "url": "invidious.reallyaweso.me",
-        "latency": 0.5941774845123291
-    },
-    {
-        "url": "invidious.adminforge.de",
-        "latency": 0.8106396198272705
-    },
-    {
-        "url": "iv.nowhere.moe",
-        "latency": 0.8231384754180908
+        "latency": 0.16222548484802246
     },
     {
         "url": "invidious.privacydev.net",
-        "latency": 0.9095699787139893
+        "latency": 0.4825439453125
     },
     {
-        "url": "invidious.jing.rocks",
-        "latency": 0.9687275886535645
+        "url": "inv.tux.pizza",
+        "latency": 0.5198907852172852
+    },
+    {
+        "url": "yewtu.be",
+        "latency": 0.5805912017822266
+    },
+    {
+        "url": "invidious.yourdevice.ch",
+        "latency": 0.5888018608093262
     },
     {
         "url": "inv.nadeko.net",
-        "latency": 1.0356972217559814
+        "latency": 0.6508796215057373
+    },
+    {
+        "url": "invidious.reallyaweso.me",
+        "latency": 0.6882369518280029
+    },
+    {
+        "url": "iv.nboeck.de",
+        "latency": 0.7850415706634521
+    },
+    {
+        "url": "invidious.jing.rocks",
+        "latency": 0.7992401123046875
+    },
+    {
+        "url": "iv.nowhere.moe",
+        "latency": 0.8039398193359375
+    },
+    {
+        "url": "invidious.adminforge.de",
+        "latency": 1.1887145042419434
+    },
+    {
+        "url": "invidious.privacyredirect.com",
+        "latency": 1.425004482269287
     }
 ]
