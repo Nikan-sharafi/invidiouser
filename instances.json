@@ -1,50 +1,50 @@
 [
     {
-        "url": "yewtu.be",
-        "latency": 0.5421168804168701
-    },
-    {
         "url": "iv.ggtyler.dev",
-        "latency": 0.5462524890899658
+        "latency": 0.12703967094421387
     },
     {
-        "url": "invidious.jing.rocks",
-        "latency": 0.5751888751983643
-    },
-    {
-        "url": "invidious.reallyaweso.me",
-        "latency": 0.801464319229126
-    },
-    {
-        "url": "invidious.yourdevice.ch",
-        "latency": 0.8454303741455078
-    },
-    {
-        "url": "iv.nowhere.moe",
-        "latency": 0.9114377498626709
-    },
-    {
-        "url": "iv.nboeck.de",
-        "latency": 0.9929957389831543
-    },
-    {
-        "url": "inv.tux.pizza",
-        "latency": 1.033179759979248
-    },
-    {
-        "url": "inv.nadeko.net",
-        "latency": 1.1976537704467773
-    },
-    {
-        "url": "invidious.privacyredirect.com",
-        "latency": 1.292372703552246
-    },
-    {
-        "url": "invidious.adminforge.de",
-        "latency": 1.5400571823120117
+        "url": "yewtu.be",
+        "latency": 0.5240416526794434
     },
     {
         "url": "invidious.privacydev.net",
-        "latency": 6.7370991706848145
+        "latency": 0.5367343425750732
+    },
+    {
+        "url": "iv.nboeck.de",
+        "latency": 0.5724625587463379
+    },
+    {
+        "url": "invidious.privacyredirect.com",
+        "latency": 0.5877029895782471
+    },
+    {
+        "url": "invidious.reallyaweso.me",
+        "latency": 0.6055703163146973
+    },
+    {
+        "url": "inv.tux.pizza",
+        "latency": 0.6101129055023193
+    },
+    {
+        "url": "invidious.yourdevice.ch",
+        "latency": 0.678074836730957
+    },
+    {
+        "url": "invidious.jing.rocks",
+        "latency": 0.8547658920288086
+    },
+    {
+        "url": "iv.nowhere.moe",
+        "latency": 0.8997337818145752
+    },
+    {
+        "url": "inv.nadeko.net",
+        "latency": 1.0283169746398926
+    },
+    {
+        "url": "invidious.adminforge.de",
+        "latency": 1.0487351417541504
     }
 ]
