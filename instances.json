@@ -1,50 +1,50 @@
 [
     {
-        "url": "iv.ggtyler.dev",
-        "latency": 0.16639208793640137
-    },
-    {
-        "url": "invidious.reallyaweso.me",
-        "latency": 0.5084233283996582
-    },
-    {
-        "url": "invidious.yourdevice.ch",
-        "latency": 0.5541427135467529
-    },
-    {
         "url": "yewtu.be",
-        "latency": 0.5854685306549072
-    },
-    {
-        "url": "iv.nboeck.de",
-        "latency": 0.6610827445983887
-    },
-    {
-        "url": "invidious.jing.rocks",
-        "latency": 0.7842822074890137
-    },
-    {
-        "url": "inv.nadeko.net",
-        "latency": 0.9101946353912354
-    },
-    {
-        "url": "inv.tux.pizza",
-        "latency": 0.9454615116119385
-    },
-    {
-        "url": "invidious.adminforge.de",
-        "latency": 1.0288410186767578
+        "latency": 0.529700756072998
     },
     {
         "url": "iv.nowhere.moe",
-        "latency": 1.407311201095581
+        "latency": 0.569282054901123
     },
     {
-        "url": "invidious.privacyredirect.com",
-        "latency": 1.4299888610839844
+        "url": "iv.nboeck.de",
+        "latency": 0.5734310150146484
+    },
+    {
+        "url": "iv.ggtyler.dev",
+        "latency": 0.5957129001617432
+    },
+    {
+        "url": "invidious.reallyaweso.me",
+        "latency": 0.6015074253082275
+    },
+    {
+        "url": "inv.tux.pizza",
+        "latency": 0.6047959327697754
+    },
+    {
+        "url": "inv.nadeko.net",
+        "latency": 0.615572452545166
     },
     {
         "url": "invidious.privacydev.net",
-        "latency": 1.6785483360290527
+        "latency": 0.627150297164917
+    },
+    {
+        "url": "invidious.yourdevice.ch",
+        "latency": 0.6915571689605713
+    },
+    {
+        "url": "invidious.jing.rocks",
+        "latency": 0.7576124668121338
+    },
+    {
+        "url": "invidious.adminforge.de",
+        "latency": 1.1465544700622559
+    },
+    {
+        "url": "invidious.privacyredirect.com",
+        "latency": 1.5506393909454346
     }
 ]
