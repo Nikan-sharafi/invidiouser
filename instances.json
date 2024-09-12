@@ -1,50 +1,50 @@
 [
     {
         "url": "iv.ggtyler.dev",
-        "latency": 0.4747352600097656
-    },
-    {
-        "url": "yewtu.be",
-        "latency": 0.680086612701416
-    },
-    {
-        "url": "inv.nadeko.net",
-        "latency": 0.7507319450378418
-    },
-    {
-        "url": "invidious.reallyaweso.me",
-        "latency": 0.7666623592376709
-    },
-    {
-        "url": "iv.nboeck.de",
-        "latency": 0.8220748901367188
-    },
-    {
-        "url": "inv.tux.pizza",
-        "latency": 0.8423480987548828
-    },
-    {
-        "url": "invidious.jing.rocks",
-        "latency": 0.8454995155334473
-    },
-    {
-        "url": "invidious.yourdevice.ch",
-        "latency": 0.8891687393188477
-    },
-    {
-        "url": "invidious.privacydev.net",
-        "latency": 1.0112941265106201
-    },
-    {
-        "url": "iv.nowhere.moe",
-        "latency": 1.091611623764038
-    },
-    {
-        "url": "invidious.adminforge.de",
-        "latency": 1.4703106880187988
+        "latency": 0.16502118110656738
     },
     {
         "url": "invidious.privacyredirect.com",
-        "latency": 5.338388442993164
+        "latency": 0.3641328811645508
+    },
+    {
+        "url": "inv.tux.pizza",
+        "latency": 0.40033435821533203
+    },
+    {
+        "url": "yewtu.be",
+        "latency": 0.44506096839904785
+    },
+    {
+        "url": "iv.nowhere.moe",
+        "latency": 0.5630671977996826
+    },
+    {
+        "url": "inv.nadeko.net",
+        "latency": 0.5785112380981445
+    },
+    {
+        "url": "invidious.reallyaweso.me",
+        "latency": 0.5978825092315674
+    },
+    {
+        "url": "invidious.yourdevice.ch",
+        "latency": 0.6051063537597656
+    },
+    {
+        "url": "iv.nboeck.de",
+        "latency": 0.6335227489471436
+    },
+    {
+        "url": "invidious.jing.rocks",
+        "latency": 0.9019806385040283
+    },
+    {
+        "url": "invidious.adminforge.de",
+        "latency": 0.9899642467498779
+    },
+    {
+        "url": "invidious.privacydev.net",
+        "latency": 1.570521354675293
     }
 ]
