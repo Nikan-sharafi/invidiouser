@@ -1,50 +1,50 @@
 [
     {
         "url": "iv.ggtyler.dev",
-        "latency": 0.23299264907836914
-    },
-    {
-        "url": "invidious.reallyaweso.me",
-        "latency": 0.44991111755371094
-    },
-    {
-        "url": "invidious.privacydev.net",
-        "latency": 0.4530177116394043
-    },
-    {
-        "url": "invidious.yourdevice.ch",
-        "latency": 0.4678943157196045
-    },
-    {
-        "url": "yewtu.be",
-        "latency": 0.5068418979644775
-    },
-    {
-        "url": "iv.nboeck.de",
-        "latency": 0.5314598083496094
-    },
-    {
-        "url": "iv.nowhere.moe",
-        "latency": 0.5424916744232178
+        "latency": 0.46543312072753906
     },
     {
         "url": "inv.tux.pizza",
-        "latency": 0.6133332252502441
-    },
-    {
-        "url": "inv.nadeko.net",
-        "latency": 0.619633674621582
-    },
-    {
-        "url": "invidious.privacyredirect.com",
-        "latency": 0.8767526149749756
-    },
-    {
-        "url": "invidious.adminforge.de",
-        "latency": 0.918978214263916
+        "latency": 0.5269477367401123
     },
     {
         "url": "invidious.jing.rocks",
-        "latency": 1.3844213485717773
+        "latency": 0.6007523536682129
+    },
+    {
+        "url": "yewtu.be",
+        "latency": 0.676781177520752
+    },
+    {
+        "url": "invidious.reallyaweso.me",
+        "latency": 0.7560169696807861
+    },
+    {
+        "url": "inv.nadeko.net",
+        "latency": 0.7738254070281982
+    },
+    {
+        "url": "invidious.yourdevice.ch",
+        "latency": 0.8124668598175049
+    },
+    {
+        "url": "iv.nboeck.de",
+        "latency": 0.8882510662078857
+    },
+    {
+        "url": "invidious.privacydev.net",
+        "latency": 0.9434301853179932
+    },
+    {
+        "url": "iv.nowhere.moe",
+        "latency": 0.9833292961120605
+    },
+    {
+        "url": "invidious.privacyredirect.com",
+        "latency": 1.2156808376312256
+    },
+    {
+        "url": "invidious.adminforge.de",
+        "latency": 1.4086124897003174
     }
 ]
