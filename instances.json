@@ -1,50 +1,50 @@
 [
     {
-        "url": "yewtu.be",
-        "latency": 0.5223374366760254
-    },
-    {
         "url": "iv.ggtyler.dev",
-        "latency": 0.6859409809112549
-    },
-    {
-        "url": "invidious.reallyaweso.me",
-        "latency": 0.6918201446533203
-    },
-    {
-        "url": "inv.nadeko.net",
-        "latency": 0.7265961170196533
-    },
-    {
-        "url": "invidious.yourdevice.ch",
-        "latency": 0.8771681785583496
-    },
-    {
-        "url": "inv.tux.pizza",
-        "latency": 0.917672872543335
-    },
-    {
-        "url": "iv.nboeck.de",
-        "latency": 0.944476842880249
-    },
-    {
-        "url": "iv.nowhere.moe",
-        "latency": 1.0846424102783203
-    },
-    {
-        "url": "invidious.jing.rocks",
-        "latency": 1.1535770893096924
-    },
-    {
-        "url": "invidious.privacydev.net",
-        "latency": 1.2809178829193115
+        "latency": 0.22788667678833008
     },
     {
         "url": "invidious.privacyredirect.com",
-        "latency": 1.3639113903045654
+        "latency": 0.3705611228942871
+    },
+    {
+        "url": "invidious.privacydev.net",
+        "latency": 0.4450852870941162
+    },
+    {
+        "url": "invidious.reallyaweso.me",
+        "latency": 0.5543358325958252
+    },
+    {
+        "url": "iv.nboeck.de",
+        "latency": 0.5796871185302734
+    },
+    {
+        "url": "inv.tux.pizza",
+        "latency": 0.5829527378082275
+    },
+    {
+        "url": "invidious.yourdevice.ch",
+        "latency": 0.6023221015930176
+    },
+    {
+        "url": "yewtu.be",
+        "latency": 0.6089913845062256
+    },
+    {
+        "url": "inv.nadeko.net",
+        "latency": 0.6475708484649658
+    },
+    {
+        "url": "iv.nowhere.moe",
+        "latency": 0.85235595703125
+    },
+    {
+        "url": "invidious.jing.rocks",
+        "latency": 1.0054333209991455
     },
     {
         "url": "invidious.adminforge.de",
-        "latency": 1.712021827697754
+        "latency": 1.2881977558135986
     }
 ]
