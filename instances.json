@@ -1,50 +1,50 @@
 [
     {
-        "url": "iv.ggtyler.dev",
-        "latency": 0.16576313972473145
+        "url": "yewtu.be",
+        "latency": 0.35906553268432617
     },
     {
         "url": "inv.tux.pizza",
-        "latency": 0.4051840305328369
-    },
-    {
-        "url": "yewtu.be",
-        "latency": 0.5085105895996094
-    },
-    {
-        "url": "invidious.reallyaweso.me",
-        "latency": 0.5318436622619629
-    },
-    {
-        "url": "invidious.yourdevice.ch",
-        "latency": 0.5645978450775146
-    },
-    {
-        "url": "invidious.privacydev.net",
-        "latency": 0.5814032554626465
-    },
-    {
-        "url": "iv.nboeck.de",
-        "latency": 0.7072649002075195
-    },
-    {
-        "url": "invidious.jing.rocks",
-        "latency": 0.8341903686523438
-    },
-    {
-        "url": "iv.nowhere.moe",
-        "latency": 0.8843340873718262
-    },
-    {
-        "url": "invidious.adminforge.de",
-        "latency": 1.2439227104187012
-    },
-    {
-        "url": "invidious.privacyredirect.com",
-        "latency": 1.4134483337402344
+        "latency": 0.4580967426300049
     },
     {
         "url": "inv.nadeko.net",
-        "latency": 1.6306533813476562
+        "latency": 0.5600700378417969
+    },
+    {
+        "url": "iv.nboeck.de",
+        "latency": 0.575045108795166
+    },
+    {
+        "url": "invidious.yourdevice.ch",
+        "latency": 0.5958919525146484
+    },
+    {
+        "url": "invidious.reallyaweso.me",
+        "latency": 0.686237096786499
+    },
+    {
+        "url": "iv.nowhere.moe",
+        "latency": 0.7970120906829834
+    },
+    {
+        "url": "iv.ggtyler.dev",
+        "latency": 0.8061308860778809
+    },
+    {
+        "url": "invidious.adminforge.de",
+        "latency": 1.0023276805877686
+    },
+    {
+        "url": "invidious.privacyredirect.com",
+        "latency": 1.2144074440002441
+    },
+    {
+        "url": "invidious.jing.rocks",
+        "latency": 1.2765541076660156
+    },
+    {
+        "url": "invidious.privacydev.net",
+        "latency": 1.3722670078277588
     }
 ]
