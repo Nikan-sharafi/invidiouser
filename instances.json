@@ -1,50 +1,50 @@
 [
     {
-        "url": "invidious.jing.rocks",
-        "latency": 0.6245429515838623
-    },
-    {
-        "url": "yewtu.be",
-        "latency": 0.6285145282745361
-    },
-    {
-        "url": "inv.nadeko.net",
-        "latency": 0.7834548950195312
-    },
-    {
-        "url": "invidious.reallyaweso.me",
-        "latency": 0.8659541606903076
-    },
-    {
-        "url": "inv.tux.pizza",
-        "latency": 0.998058557510376
-    },
-    {
-        "url": "invidious.yourdevice.ch",
-        "latency": 1.0062828063964844
-    },
-    {
-        "url": "iv.nboeck.de",
-        "latency": 1.1500046253204346
+        "url": "iv.ggtyler.dev",
+        "latency": 0.1600654125213623
     },
     {
         "url": "invidious.privacydev.net",
-        "latency": 1.26121187210083
+        "latency": 0.38374948501586914
     },
     {
-        "url": "invidious.privacyredirect.com",
-        "latency": 1.2715344429016113
+        "url": "yewtu.be",
+        "latency": 0.4462106227874756
     },
     {
-        "url": "invidious.adminforge.de",
-        "latency": 1.387338638305664
+        "url": "invidious.reallyaweso.me",
+        "latency": 0.4654853343963623
+    },
+    {
+        "url": "inv.nadeko.net",
+        "latency": 0.515641450881958
+    },
+    {
+        "url": "iv.nboeck.de",
+        "latency": 0.5505344867706299
+    },
+    {
+        "url": "invidious.yourdevice.ch",
+        "latency": 0.5620408058166504
     },
     {
         "url": "iv.nowhere.moe",
-        "latency": 2.3451430797576904
+        "latency": 0.6713485717773438
     },
     {
-        "url": "iv.ggtyler.dev",
-        "latency": 5.543491363525391
+        "url": "invidious.jing.rocks",
+        "latency": 0.6906430721282959
+    },
+    {
+        "url": "invidious.privacyredirect.com",
+        "latency": 0.7581045627593994
+    },
+    {
+        "url": "inv.tux.pizza",
+        "latency": 0.9110655784606934
+    },
+    {
+        "url": "invidious.adminforge.de",
+        "latency": 1.0669958591461182
     }
 ]
