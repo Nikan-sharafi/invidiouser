@@ -1,50 +1,50 @@
 [
     {
-        "url": "invidious.privacyredirect.com",
-        "latency": 0.36242175102233887
-    },
-    {
-        "url": "inv.tux.pizza",
-        "latency": 0.39290499687194824
-    },
-    {
         "url": "iv.ggtyler.dev",
-        "latency": 0.4253253936767578
+        "latency": 0.497342586517334
     },
     {
         "url": "yewtu.be",
-        "latency": 0.44515371322631836
-    },
-    {
-        "url": "invidious.reallyaweso.me",
-        "latency": 0.4557313919067383
-    },
-    {
-        "url": "iv.nowhere.moe",
-        "latency": 0.5634360313415527
-    },
-    {
-        "url": "iv.nboeck.de",
-        "latency": 0.5911340713500977
-    },
-    {
-        "url": "invidious.privacydev.net",
-        "latency": 0.6137328147888184
-    },
-    {
-        "url": "inv.nadeko.net",
-        "latency": 0.6284992694854736
-    },
-    {
-        "url": "invidious.yourdevice.ch",
-        "latency": 0.7725715637207031
-    },
-    {
-        "url": "invidious.adminforge.de",
-        "latency": 0.9739458560943604
+        "latency": 0.5167412757873535
     },
     {
         "url": "invidious.jing.rocks",
-        "latency": 0.9808332920074463
+        "latency": 0.5334038734436035
+    },
+    {
+        "url": "invidious.privacyredirect.com",
+        "latency": 0.5904970169067383
+    },
+    {
+        "url": "invidious.reallyaweso.me",
+        "latency": 0.7185385227203369
+    },
+    {
+        "url": "invidious.privacydev.net",
+        "latency": 0.8041701316833496
+    },
+    {
+        "url": "iv.nboeck.de",
+        "latency": 0.8162529468536377
+    },
+    {
+        "url": "inv.tux.pizza",
+        "latency": 0.9101006984710693
+    },
+    {
+        "url": "invidious.yourdevice.ch",
+        "latency": 0.996586799621582
+    },
+    {
+        "url": "iv.nowhere.moe",
+        "latency": 1.1847600936889648
+    },
+    {
+        "url": "inv.nadeko.net",
+        "latency": 1.4807450771331787
+    },
+    {
+        "url": "invidious.adminforge.de",
+        "latency": 1.6283948421478271
     }
 ]
