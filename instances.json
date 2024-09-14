@@ -1,50 +1,50 @@
 [
     {
-        "url": "iv.ggtyler.dev",
-        "latency": 0.16033315658569336
-    },
-    {
-        "url": "invidious.privacydev.net",
-        "latency": 0.5294101238250732
-    },
-    {
-        "url": "inv.tux.pizza",
-        "latency": 0.5310108661651611
-    },
-    {
         "url": "yewtu.be",
-        "latency": 0.5901038646697998
-    },
-    {
-        "url": "invidious.yourdevice.ch",
-        "latency": 0.595374584197998
-    },
-    {
-        "url": "iv.nowhere.moe",
-        "latency": 0.6285040378570557
+        "latency": 0.5363032817840576
     },
     {
         "url": "invidious.reallyaweso.me",
-        "latency": 0.6606075763702393
+        "latency": 0.7043731212615967
     },
     {
-        "url": "iv.nboeck.de",
-        "latency": 0.6752376556396484
-    },
-    {
-        "url": "invidious.jing.rocks",
-        "latency": 0.8761458396911621
-    },
-    {
-        "url": "invidious.adminforge.de",
-        "latency": 0.9315011501312256
-    },
-    {
-        "url": "invidious.privacyredirect.com",
-        "latency": 1.1475553512573242
+        "url": "inv.tux.pizza",
+        "latency": 0.7873814105987549
     },
     {
         "url": "inv.nadeko.net",
-        "latency": 1.3931522369384766
+        "latency": 0.8082664012908936
+    },
+    {
+        "url": "iv.nowhere.moe",
+        "latency": 1.0170118808746338
+    },
+    {
+        "url": "invidious.yourdevice.ch",
+        "latency": 1.054075002670288
+    },
+    {
+        "url": "invidious.privacyredirect.com",
+        "latency": 1.3764188289642334
+    },
+    {
+        "url": "iv.nboeck.de",
+        "latency": 1.444859504699707
+    },
+    {
+        "url": "invidious.privacydev.net",
+        "latency": 1.4669189453125
+    },
+    {
+        "url": "invidious.adminforge.de",
+        "latency": 1.6050631999969482
+    },
+    {
+        "url": "invidious.jing.rocks",
+        "latency": 2.940235137939453
+    },
+    {
+        "url": "iv.ggtyler.dev",
+        "latency": 5.451364278793335
     }
 ]
