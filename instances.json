@@ -1,50 +1,50 @@
 [
     {
+        "url": "iv.ggtyler.dev",
+        "latency": 0.1874070167541504
+    },
+    {
         "url": "invidious.privacyredirect.com",
-        "latency": 0.6890156269073486
-    },
-    {
-        "url": "invidious.reallyaweso.me",
-        "latency": 0.724837064743042
-    },
-    {
-        "url": "yewtu.be",
-        "latency": 0.8480794429779053
-    },
-    {
-        "url": "invidious.jing.rocks",
-        "latency": 0.9230942726135254
+        "latency": 0.33365488052368164
     },
     {
         "url": "invidious.privacydev.net",
-        "latency": 0.9283819198608398
-    },
-    {
-        "url": "iv.nboeck.de",
-        "latency": 0.9462954998016357
-    },
-    {
-        "url": "iv.nowhere.moe",
-        "latency": 1.0492780208587646
-    },
-    {
-        "url": "invidious.adminforge.de",
-        "latency": 1.1425063610076904
-    },
-    {
-        "url": "invidious.yourdevice.ch",
-        "latency": 1.1503489017486572
-    },
-    {
-        "url": "iv.ggtyler.dev",
-        "latency": 1.3367416858673096
-    },
-    {
-        "url": "inv.nadeko.net",
-        "latency": 1.9584310054779053
+        "latency": 0.3807523250579834
     },
     {
         "url": "inv.tux.pizza",
-        "latency": 3.5365798473358154
+        "latency": 0.49027061462402344
+    },
+    {
+        "url": "yewtu.be",
+        "latency": 0.5042386054992676
+    },
+    {
+        "url": "invidious.reallyaweso.me",
+        "latency": 0.5329008102416992
+    },
+    {
+        "url": "iv.nboeck.de",
+        "latency": 0.5509109497070312
+    },
+    {
+        "url": "invidious.yourdevice.ch",
+        "latency": 0.5526063442230225
+    },
+    {
+        "url": "invidious.adminforge.de",
+        "latency": 0.6798372268676758
+    },
+    {
+        "url": "iv.nowhere.moe",
+        "latency": 0.9291934967041016
+    },
+    {
+        "url": "invidious.jing.rocks",
+        "latency": 1.1488707065582275
+    },
+    {
+        "url": "inv.nadeko.net",
+        "latency": 2.129399299621582
     }
 ]
