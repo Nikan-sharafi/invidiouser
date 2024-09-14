@@ -1,50 +1,50 @@
 [
     {
         "url": "iv.ggtyler.dev",
-        "latency": 0.3646810054779053
-    },
-    {
-        "url": "invidious.reallyaweso.me",
-        "latency": 0.4377603530883789
-    },
-    {
-        "url": "yewtu.be",
-        "latency": 0.4470677375793457
-    },
-    {
-        "url": "invidious.yourdevice.ch",
-        "latency": 0.4894285202026367
-    },
-    {
-        "url": "iv.nboeck.de",
-        "latency": 0.5791223049163818
-    },
-    {
-        "url": "invidious.privacydev.net",
-        "latency": 0.7328424453735352
-    },
-    {
-        "url": "inv.tux.pizza",
-        "latency": 0.7356481552124023
-    },
-    {
-        "url": "invidious.jing.rocks",
-        "latency": 0.8092954158782959
-    },
-    {
-        "url": "inv.nadeko.net",
-        "latency": 1.062049150466919
-    },
-    {
-        "url": "invidious.adminforge.de",
-        "latency": 1.1890318393707275
-    },
-    {
-        "url": "iv.nowhere.moe",
-        "latency": 1.3609652519226074
+        "latency": 0.18423986434936523
     },
     {
         "url": "invidious.privacyredirect.com",
-        "latency": 1.838179111480713
+        "latency": 0.43343663215637207
+    },
+    {
+        "url": "yewtu.be",
+        "latency": 0.4346487522125244
+    },
+    {
+        "url": "invidious.reallyaweso.me",
+        "latency": 0.46591877937316895
+    },
+    {
+        "url": "invidious.yourdevice.ch",
+        "latency": 0.4858579635620117
+    },
+    {
+        "url": "inv.tux.pizza",
+        "latency": 0.49768495559692383
+    },
+    {
+        "url": "iv.nboeck.de",
+        "latency": 0.5719757080078125
+    },
+    {
+        "url": "invidious.privacydev.net",
+        "latency": 0.6882798671722412
+    },
+    {
+        "url": "invidious.jing.rocks",
+        "latency": 0.7644443511962891
+    },
+    {
+        "url": "iv.nowhere.moe",
+        "latency": 0.922119140625
+    },
+    {
+        "url": "inv.nadeko.net",
+        "latency": 1.0419785976409912
+    },
+    {
+        "url": "invidious.adminforge.de",
+        "latency": 1.2571508884429932
     }
 ]
