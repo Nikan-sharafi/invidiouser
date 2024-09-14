@@ -1,50 +1,50 @@
 [
     {
         "url": "yewtu.be",
-        "latency": 0.552372932434082
-    },
-    {
-        "url": "invidious.jing.rocks",
-        "latency": 0.5619373321533203
-    },
-    {
-        "url": "inv.tux.pizza",
-        "latency": 0.7177078723907471
-    },
-    {
-        "url": "iv.ggtyler.dev",
-        "latency": 0.7178494930267334
-    },
-    {
-        "url": "invidious.reallyaweso.me",
-        "latency": 0.7990016937255859
-    },
-    {
-        "url": "invidious.yourdevice.ch",
-        "latency": 0.8273882865905762
-    },
-    {
-        "url": "iv.nboeck.de",
-        "latency": 0.9537780284881592
-    },
-    {
-        "url": "invidious.privacydev.net",
-        "latency": 1.0739188194274902
+        "latency": 0.5412273406982422
     },
     {
         "url": "invidious.privacyredirect.com",
-        "latency": 1.2958619594573975
-    },
-    {
-        "url": "invidious.adminforge.de",
-        "latency": 1.455817699432373
-    },
-    {
-        "url": "iv.nowhere.moe",
-        "latency": 3.9470062255859375
+        "latency": 0.5651617050170898
     },
     {
         "url": "inv.nadeko.net",
-        "latency": 4.1568896770477295
+        "latency": 0.7773919105529785
+    },
+    {
+        "url": "invidious.yourdevice.ch",
+        "latency": 0.8191421031951904
+    },
+    {
+        "url": "invidious.reallyaweso.me",
+        "latency": 0.8423144817352295
+    },
+    {
+        "url": "invidious.jing.rocks",
+        "latency": 0.8493692874908447
+    },
+    {
+        "url": "iv.ggtyler.dev",
+        "latency": 0.8502178192138672
+    },
+    {
+        "url": "iv.nowhere.moe",
+        "latency": 0.8678228855133057
+    },
+    {
+        "url": "inv.tux.pizza",
+        "latency": 0.9273416996002197
+    },
+    {
+        "url": "iv.nboeck.de",
+        "latency": 0.9751572608947754
+    },
+    {
+        "url": "invidious.privacydev.net",
+        "latency": 1.207101821899414
+    },
+    {
+        "url": "invidious.adminforge.de",
+        "latency": 1.6150405406951904
     }
 ]
