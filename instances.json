@@ -1,50 +1,50 @@
 [
     {
         "url": "iv.ggtyler.dev",
-        "latency": 0.24632859230041504
-    },
-    {
-        "url": "inv.nadeko.net",
-        "latency": 0.561622142791748
-    },
-    {
-        "url": "invidious.yourdevice.ch",
-        "latency": 0.5673635005950928
-    },
-    {
-        "url": "invidious.reallyaweso.me",
-        "latency": 0.6893978118896484
-    },
-    {
-        "url": "iv.nowhere.moe",
-        "latency": 0.7094242572784424
-    },
-    {
-        "url": "iv.nboeck.de",
-        "latency": 0.7519838809967041
-    },
-    {
-        "url": "inv.tux.pizza",
-        "latency": 0.78745436668396
-    },
-    {
-        "url": "yewtu.be",
-        "latency": 0.9129664897918701
-    },
-    {
-        "url": "invidious.privacydev.net",
-        "latency": 0.9236905574798584
-    },
-    {
-        "url": "invidious.privacyredirect.com",
-        "latency": 1.0022258758544922
+        "latency": 0.4917011260986328
     },
     {
         "url": "invidious.jing.rocks",
-        "latency": 1.1541409492492676
+        "latency": 0.5204660892486572
+    },
+    {
+        "url": "yewtu.be",
+        "latency": 0.6811258792877197
+    },
+    {
+        "url": "invidious.reallyaweso.me",
+        "latency": 0.7969338893890381
+    },
+    {
+        "url": "inv.tux.pizza",
+        "latency": 0.8210268020629883
+    },
+    {
+        "url": "iv.nboeck.de",
+        "latency": 0.9684834480285645
+    },
+    {
+        "url": "iv.nowhere.moe",
+        "latency": 1.0071203708648682
+    },
+    {
+        "url": "invidious.yourdevice.ch",
+        "latency": 1.0433785915374756
+    },
+    {
+        "url": "invidious.privacydev.net",
+        "latency": 1.0649831295013428
+    },
+    {
+        "url": "invidious.privacyredirect.com",
+        "latency": 1.2053165435791016
     },
     {
         "url": "invidious.adminforge.de",
-        "latency": 1.1831107139587402
+        "latency": 1.8219962120056152
+    },
+    {
+        "url": "inv.nadeko.net",
+        "latency": 2.050715208053589
     }
 ]
