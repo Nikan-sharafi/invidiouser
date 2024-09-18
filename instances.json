@@ -1,50 +1,50 @@
 [
     {
-        "url": "inv.tux.pizza",
-        "latency": 0.23764467239379883
-    },
-    {
-        "url": "iv.ggtyler.dev",
-        "latency": 0.2831583023071289
-    },
-    {
-        "url": "invidious.privacyredirect.com",
-        "latency": 0.3648364543914795
-    },
-    {
-        "url": "invidious.privacydev.net",
-        "latency": 0.4393656253814697
-    },
-    {
-        "url": "invidious.reallyaweso.me",
-        "latency": 0.439542293548584
-    },
-    {
         "url": "yewtu.be",
-        "latency": 0.5227599143981934
-    },
-    {
-        "url": "iv.nboeck.de",
-        "latency": 0.5580034255981445
-    },
-    {
-        "url": "invidious.yourdevice.ch",
-        "latency": 0.5794563293457031
-    },
-    {
-        "url": "invidious.adminforge.de",
-        "latency": 0.6237120628356934
-    },
-    {
-        "url": "inv.nadeko.net",
-        "latency": 0.642000675201416
+        "latency": 0.5179257392883301
     },
     {
         "url": "invidious.jing.rocks",
-        "latency": 1.0030474662780762
+        "latency": 0.6698009967803955
+    },
+    {
+        "url": "iv.ggtyler.dev",
+        "latency": 0.7123675346374512
+    },
+    {
+        "url": "inv.tux.pizza",
+        "latency": 0.80586838722229
+    },
+    {
+        "url": "iv.nboeck.de",
+        "latency": 0.814051628112793
+    },
+    {
+        "url": "invidious.yourdevice.ch",
+        "latency": 0.8178360462188721
+    },
+    {
+        "url": "invidious.reallyaweso.me",
+        "latency": 0.841378927230835
+    },
+    {
+        "url": "invidious.adminforge.de",
+        "latency": 0.855212926864624
     },
     {
         "url": "iv.nowhere.moe",
-        "latency": 3.741358757019043
+        "latency": 0.8631784915924072
+    },
+    {
+        "url": "invidious.privacyredirect.com",
+        "latency": 1.2271146774291992
+    },
+    {
+        "url": "inv.nadeko.net",
+        "latency": 1.233102798461914
+    },
+    {
+        "url": "invidious.privacydev.net",
+        "latency": 1.3751752376556396
     }
 ]
