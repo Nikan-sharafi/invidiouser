@@ -1,46 +1,46 @@
 [
     {
         "url": "iv.ggtyler.dev",
-        "latency": 0.2510342597961426
-    },
-    {
-        "url": "inv.tux.pizza",
-        "latency": 0.4016108512878418
-    },
-    {
-        "url": "invidious.privacydev.net",
-        "latency": 0.4927215576171875
-    },
-    {
-        "url": "iv.nowhere.moe",
-        "latency": 0.5638458728790283
-    },
-    {
-        "url": "invidious.reallyaweso.me",
-        "latency": 0.6106998920440674
-    },
-    {
-        "url": "invidious.adminforge.de",
-        "latency": 0.6244652271270752
-    },
-    {
-        "url": "iv.nboeck.de",
-        "latency": 0.6634881496429443
-    },
-    {
-        "url": "invidious.yourdevice.ch",
-        "latency": 0.6803808212280273
+        "latency": 0.4945394992828369
     },
     {
         "url": "yewtu.be",
-        "latency": 0.7376689910888672
+        "latency": 0.5188884735107422
     },
     {
         "url": "invidious.jing.rocks",
-        "latency": 0.7645833492279053
+        "latency": 0.5712535381317139
+    },
+    {
+        "url": "invidious.reallyaweso.me",
+        "latency": 0.701073169708252
+    },
+    {
+        "url": "invidious.adminforge.de",
+        "latency": 0.7507550716400146
+    },
+    {
+        "url": "invidious.yourdevice.ch",
+        "latency": 0.8727283477783203
+    },
+    {
+        "url": "iv.nboeck.de",
+        "latency": 0.9481375217437744
+    },
+    {
+        "url": "iv.nowhere.moe",
+        "latency": 1.2105696201324463
     },
     {
         "url": "inv.nadeko.net",
-        "latency": 2.0512053966522217
+        "latency": 1.256774663925171
+    },
+    {
+        "url": "invidious.privacydev.net",
+        "latency": 1.3826682567596436
+    },
+    {
+        "url": "inv.tux.pizza",
+        "latency": 4.058777332305908
     }
 ]
