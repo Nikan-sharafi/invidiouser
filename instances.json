@@ -1,26 +1,30 @@
 [
     {
         "url": "inv.tux.pizza",
-        "latency": 0.2485358715057373
+        "latency": 0.23877525329589844
     },
     {
         "url": "iv.ggtyler.dev",
-        "latency": 0.49293041229248047
+        "latency": 0.4118361473083496
     },
     {
         "url": "yewtu.be",
-        "latency": 0.5189146995544434
+        "latency": 0.5145165920257568
     },
     {
         "url": "invidious.reallyaweso.me",
-        "latency": 0.5381519794464111
+        "latency": 0.5370724201202393
     },
     {
         "url": "invidious.yourdevice.ch",
-        "latency": 0.6747832298278809
+        "latency": 0.5876662731170654
+    },
+    {
+        "url": "invidious.jing.rocks",
+        "latency": 1.3230993747711182
     },
     {
         "url": "invidious.privacyredirect.com",
-        "latency": 0.9298605918884277
+        "latency": 2.3562991619110107
     }
 ]
