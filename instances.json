@@ -1,14 +1,14 @@
 [
     {
+        "url": "invidious.jing.rocks",
+        "latency": 0.558795690536499
+    },
+    {
         "url": "invidious.privacyredirect.com",
-        "latency": 0.44916725158691406
+        "latency": 0.6678633689880371
     },
     {
         "url": "inv.nadeko.net",
-        "latency": 0.6137485504150391
-    },
-    {
-        "url": "invidious.jing.rocks",
-        "latency": 0.7390296459197998
+        "latency": 0.8402304649353027
     }
 ]
