@@ -1,14 +1,14 @@
 [
     {
-        "url": "inv.nadeko.net",
-        "latency": 0.5894346237182617
-    },
-    {
         "url": "invidious.jing.rocks",
-        "latency": 0.6865358352661133
+        "latency": 0.7015421390533447
     },
     {
         "url": "yt.drgnz.club",
-        "latency": 2.0169129371643066
+        "latency": 0.7686488628387451
+    },
+    {
+        "url": "inv.nadeko.net",
+        "latency": 0.7841649055480957
     }
 ]
