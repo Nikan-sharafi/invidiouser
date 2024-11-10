@@ -1,18 +1,18 @@
 [
     {
         "url": "invidious.catspeed.cc",
-        "latency": 0.20389008522033691
+        "latency": 0.2603135108947754
     },
     {
         "url": "yewtu.be",
-        "latency": 0.4550895690917969
+        "latency": 0.43404412269592285
     },
     {
         "url": "inv.nadeko.net",
-        "latency": 0.6017446517944336
+        "latency": 0.5937535762786865
     },
     {
         "url": "invidious.jing.rocks",
-        "latency": 0.8425514698028564
+        "latency": 4.436370611190796
     }
 ]
