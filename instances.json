@@ -1,10 +1,10 @@
 [
     {
-        "url": "invidious.jing.rocks",
-        "latency": 0.670271635055542
+        "url": "inv.nadeko.net",
+        "latency": 0.9698526859283447
     },
     {
-        "url": "inv.nadeko.net",
-        "latency": 0.7250282764434814
+        "url": "invidious.jing.rocks",
+        "latency": 4.36570405960083
     }
 ]
