@@ -1,14 +1,14 @@
 [
     {
         "url": "yewtu.be",
-        "latency": 0.5078692436218262
-    },
-    {
-        "url": "inv.nadeko.net",
-        "latency": 0.5853569507598877
+        "latency": 0.6704950332641602
     },
     {
         "url": "invidious.jing.rocks",
-        "latency": 0.830435037612915
+        "latency": 0.6968722343444824
+    },
+    {
+        "url": "inv.nadeko.net",
+        "latency": 0.7291135787963867
     }
 ]
