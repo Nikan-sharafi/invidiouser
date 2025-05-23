@@ -1,14 +1,14 @@
 [
     {
+        "url": "invidious.f5.si",
+        "latency": 0.59078049659729
+    },
+    {
         "url": "id.420129.xyz",
-        "latency": 0.49640631675720215
+        "latency": 0.666783332824707
     },
     {
         "url": "yewtu.be",
-        "latency": 0.5881938934326172
-    },
-    {
-        "url": "invidious.f5.si",
-        "latency": 1.0822060108184814
+        "latency": 0.6704752445220947
     }
 ]
