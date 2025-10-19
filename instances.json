@@ -1,6 +1,10 @@
 [
     {
+        "url": "invidious.f5.si",
+        "latency": 0.611400842666626
+    },
+    {
         "url": "invidious.nerdvpn.de",
-        "latency": 5.3044047355651855
+        "latency": 4.860032320022583
     }
 ]
