@@ -1,18 +1,18 @@
 [
     {
         "url": "invidious.f5.si",
-        "latency": 0.6990175247192383
+        "latency": 0.9740982055664062
     },
     {
         "url": "yewtu.be",
-        "latency": 0.7877531051635742
+        "latency": 1.0941753387451172
     },
     {
         "url": "inv.perditum.com",
-        "latency": 0.9349560737609863
+        "latency": 2.2220921516418457
     },
     {
         "url": "invidious.nerdvpn.de",
-        "latency": 4.759504795074463
+        "latency": 5.286606550216675
     }
 ]
