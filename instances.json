@@ -1,14 +1,14 @@
 [
     {
+        "url": "invidious.f5.si",
+        "latency": 1.0727593898773193
+    },
+    {
         "url": "yewtu.be",
-        "latency": 0.7966482639312744
+        "latency": 1.434985876083374
     },
     {
         "url": "inv.perditum.com",
-        "latency": 1.2863636016845703
-    },
-    {
-        "url": "invidious.f5.si",
-        "latency": 1.2986679077148438
+        "latency": 1.51218843460083
     }
 ]
