@@ -1,6 +1,10 @@
 [
     {
         "url": "inv.nadeko.net",
-        "latency": 0.5617222785949707
+        "latency": 0.6812865734100342
+    },
+    {
+        "url": "yewtu.be",
+        "latency": 0.9420325756072998
     }
 ]
