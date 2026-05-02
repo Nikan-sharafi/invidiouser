@@ -1,6 +1,10 @@
 [
     {
         "url": "yt.chocolatemoo53.com",
-        "latency": 0.17953181266784668
+        "latency": 0.1775064468383789
+    },
+    {
+        "url": "inv.nadeko.net",
+        "latency": 0.8578531742095947
     }
 ]
