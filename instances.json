@@ -1,18 +1,18 @@
 [
     {
         "url": "yt.chocolatemoo53.com",
-        "latency": 0.15263652801513672
-    },
-    {
-        "url": "invidious.f5.si",
-        "latency": 0.683072566986084
-    },
-    {
-        "url": "inv.nadeko.net",
-        "latency": 0.8218016624450684
+        "latency": 0.18622207641601562
     },
     {
         "url": "invidious.tiekoetter.com",
-        "latency": 0.8874795436859131
+        "latency": 0.5948803424835205
+    },
+    {
+        "url": "inv.nadeko.net",
+        "latency": 0.6828806400299072
+    },
+    {
+        "url": "invidious.f5.si",
+        "latency": 0.865267276763916
     }
 ]
